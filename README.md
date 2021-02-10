@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+ <p align="center">
+  <br><image src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" width="250"><br>
+   I'm Molvin. Computer Science student at the University of the Witwatersrand
+   <br><br>If you are interested to learn more about my work or collaborate on future projects, you can contact me on <a href="https://www.linkedin.com/in/rotondwa-ramovha-ba7938141/">LinkedIn</a> 
+     </p>
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramovha&hide=stars&show_icons=true&theme=default&line_height=32">
+<!--
+
 <!--
 **Ramovha/Ramovha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
